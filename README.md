@@ -1,4 +1,4 @@
 # Streaming Systems
 
 - Introduction
-  - [Streaming Systems](streaming-systems.jpg)
+  - [Streaming Systems](streaming-systems.png)
